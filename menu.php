@@ -6,7 +6,7 @@
 	<style type="text/css">
 		.menu{
 			text-align: center;
-			margin:50px 0 50px 0;
+			margin:55px 0 55px 0;
 			font-size: 20px;
 		}
 		.content{

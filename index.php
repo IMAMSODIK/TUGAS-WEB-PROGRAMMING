@@ -8,7 +8,7 @@
  <html>
  <head>
  	<meta charset="utf-8">
- 	<title>modularitas</title>
+ 	<title>modularity</title>
  </head>
  <body>
  
